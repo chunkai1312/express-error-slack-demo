@@ -45,6 +45,6 @@ MIT © [Chun-Kai Wang](https://github.com/chunkai1312)
 [standardjs-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg
 [standardjs-url]: http://standardjs.com/
 [travis-image]: https://img.shields.io/travis/chunkai1312/express-error-slack-demo.svg
-[travis-url]: https://travis-ci.org/chunkai1312/express-error-slack
+[travis-url]: https://travis-ci.org/chunkai1312/express-error-slack-demo
 [codecov-image]: https://img.shields.io/codecov/c/github/chunkai1312/express-error-slack-demo.svg
-[codecov-url]: https://codecov.io/gh/chunkai1312/express-error-slack
+[codecov-url]: https://codecov.io/gh/chunkai1312/express-error-slack-demo
