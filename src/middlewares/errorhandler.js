@@ -4,7 +4,7 @@ import { errors } from 'compose-middleware'
 import config from '../config'
 
 const handlers = [
-  // errorToSlack(config.slack),
+  errorToSlack(config.slack),
   apiErrorHandler()
 ]
 
