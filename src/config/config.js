@@ -6,6 +6,6 @@ export default {
   root: path.normalize(`${__dirname}/../..`),
 
   slack: {
-    webhookUri: process.env.SLACK_WEBHOOK_URI
+    webhookUri: process.env.SLACK_WEBHOOK_URI || 'https://hooks.slack.com/services/TOKEN'
   }
 }
