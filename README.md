@@ -1,4 +1,4 @@
-# api-seed 
+# express-error-slack-demo
 
 [![Build Status][travis-image]][travis-url]
 [![Coverage Status][codecov-image]][codecov-url]
