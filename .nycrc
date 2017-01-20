@@ -1,0 +1,7 @@
+ {
+    "include": ["src/**/*.js"],
+    "exclude": ["src/config/**/*.js"],
+    "require": ["babel-register"],
+    "sourceMap": false,
+    "instrument": false
+  }
